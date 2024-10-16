@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">DAMEP_FPV</string>
+    <string name="sv_essalud">EsSalud</string>
+    <string name="sv_miconsulta">MiConsulta</string>
+    <string name="sv_bienvenido">Bienvenido</string>
+    <string name="idBienvenido">Bienvenido(a)</string>
+    <string name="sv_dociden" />
+    <string name="sv_password" />
+    <string name="sv_botoncrear">Crear Cuenta</string>
+    <string name="sv_fondo1" />
+    <string name="sv_essaludmiconsulta">EsSalud Mi Consulta?</string>
+    <string name="sv_olvicontra">¿Olvidaste tu contraseña?</string>
+    <string name="sv_auncuenta">¿Aún no tienes una cuenta</string>
+    <string name="sv_auncta">¿Aún no tienes una cuenta</string>
+    <string name="sv_consultasal">Consultas al 3500800 Opción 2 para Lima y Callao.</string>
+    <string name="sv_provinciasa">Provincias a EsSalud en Línea de la Red de su región (https://www.essalud.gob.pe//essalud-en-linea)</string>
 </resources>
